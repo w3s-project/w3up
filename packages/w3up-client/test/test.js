@@ -2,6 +2,7 @@ import { StoreMemory } from '@web3-storage/access/stores/store-memory'
 import * as Context from '@web3-storage/upload-api/test/context'
 import * as Client from '@web3-storage/w3up-client'
 import * as assert from 'assert'
+import * as http from 'http'
 
 /**
  * @template [Context=void]
@@ -72,6 +73,7 @@ export const test = (suite) => {
 
 export const setup = async () => {
   const context = await Context.createContext({
+    http,
     assert,
   })
 
