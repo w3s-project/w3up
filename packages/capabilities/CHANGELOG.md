@@ -1,5 +1,12 @@
 # Changelog
 
+## [17.3.0](https://github.com/storacha-network/w3up/compare/capabilities-v17.2.0...capabilities-v17.3.0) (2024-06-21)
+
+
+### Features
+
+* publish index claim ([#1487](https://github.com/storacha-network/w3up/issues/1487)) ([237b0c6](https://github.com/storacha-network/w3up/commit/237b0c6cda70ae3e156bac8a011a2739b346ae4b))
+
 ## [17.2.0](https://github.com/w3s-project/w3up/compare/capabilities-v17.1.1...capabilities-v17.2.0) (2024-06-04)
 
 
