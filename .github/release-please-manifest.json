@@ -3,7 +3,7 @@
   "packages/blob-index": "1.0.3",
   "packages/filecoin-api": "7.1.0",
   "packages/filecoin-client": "3.3.3",
-  "packages/capabilities": "17.2.0",
+  "packages/capabilities": "17.3.0",
   "packages/upload-api": "18.0.1",
   "packages/upload-client": "17.0.1",
   "packages/w3up-client": "15.0.0",
